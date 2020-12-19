@@ -6,9 +6,7 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!"); 
-      Console.WriteLine("Sample Project");
-      Console.WriteLine("Sample Project for merging");
+      Console.WriteLine("Hello World!");
     }
   }
 }
