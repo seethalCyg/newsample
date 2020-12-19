@@ -8,7 +8,7 @@ namespace HelloWorld
     {
       Console.WriteLine("Hello World!"); 
       Console.WriteLine("Sample Project");
-      Console.WriteLine("Example For Pull");
+      Console.WriteLine("Example");
     }
   }
 }
